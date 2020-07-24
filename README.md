@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on information management and information system
+- 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
+- 📫 How to reach me: me@hobeedzc.cn
+- 😄 Pronouns: HoBee
+
+### Other info:
+
+- code with Python、R.
+- interest in Digital Products.
+
 <!--
 **HoBeedzc/HoBeedzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
