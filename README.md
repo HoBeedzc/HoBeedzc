@@ -7,7 +7,7 @@
 
 ### Other info:
 
-- code with Python、R.
+- code with Python、R、C.
 - interest in Digital Products.
 
 <!--
