@@ -1,3 +1,11 @@
+
+ _   _       ____                _         
+| | | | ___ | __ )  ___  ___  __| |_______ 
+| |_| |/ _ \|  _ \ / _ \/ _ \/ _` |_  / __|
+|  _  | (_) | |_) |  __/  __/ (_| |/ / (__ 
+|_| |_|\___/|____/ \___|\___|\__,_/___\___|
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on information management and information system
