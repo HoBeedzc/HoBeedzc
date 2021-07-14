@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
 - 📫 How to reach me: me@hobeedzc.cn
 - 😄 Pronouns: HoBee
+- You can find more info on www.hobeedzc.cn
 
 ### Other info:
 
