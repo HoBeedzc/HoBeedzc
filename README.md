@@ -6,7 +6,8 @@
 |_| |_|\___/|____/ \___|\___|\__,_/___\___|
 ```
 
-### Hi there 👋
+### Hi there 👋 
+![Hobee](https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Hobee&size=50)
 
 - 🔭 I’m currently working on information management and information system
 - 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
