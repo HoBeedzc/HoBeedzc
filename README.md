@@ -9,11 +9,13 @@
 ### Hi there 👋 
 ![Hobee](https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Hobee&size=50&barradius=999&barlen=70)
 
+![Hobee](https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Zequn%20Liu&size=50&barradius=999&barlen=90)
+
 - 🔭 I’m currently working on information management and information system
 - 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
-- 📫 How to reach me: me@hobeedzc.cn
+- 📫 How to reach me: lzqpublic@163.com
 - 😄 Pronouns: HoBee
-- You can find more info on www.hobeedzc.cn
+- You can find more info on [LZQ's Homepage](https://lzq.netlify.app/) or [Hobee's Homepage](http://www.hobeedzc.cn/)
 
 ### Other info:
 
