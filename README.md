@@ -16,6 +16,7 @@
 - 📫 How to reach me: lzqpublic@163.com
 - 😄 Pronouns: HoBee
 - You can find more info on [LZQ's Homepage](https://lzq.netlify.app/) or [Hobee's Homepage](http://www.hobeedzc.cn/)
+- Welcome to my [blog](http://blog.hobeedzc.cn/)
 
 ### Other info:
 
