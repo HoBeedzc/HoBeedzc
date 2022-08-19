@@ -25,6 +25,10 @@
 - code with Python、R、C、MatLab.
 - interest in Digital Products.
 
+### Counter
+
+[!Hobeedzc-Counter](https://count.getloli.com/get/@Hobeedzc?theme=asoul)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoBeedzc&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoBeedzc&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
