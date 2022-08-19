@@ -1,17 +1,31 @@
-```
+### Welcome
 
+```
+I am ...
+----------------------------------------------------------------------
   _  _     _                 __  ____                     _    _      
  | || |___| |__  ___ ___    / / |_  /___ __ _ _  _ _ _   | |  (_)_  _ 
  | __ / _ \ '_ \/ -_) -_)  / /   / // -_) _` | || | ' \  | |__| | || |
  |_||_\___/_.__/\___\___| /_/   /___\___\__, |\_,_|_||_| |____|_|\_,_|
                                            |_|                        
-                                           
+----------------------------------------------------------------------
+Welcome to my Github Profile ...
 ```
 
 ### Hi there 👋 
-![Hobee](https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Hobee&size=50&barradius=999&barlen=70)
+<center>
+<code><img src="https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Hobee&size=50&barradius=999&barlen=70" alt="Hobee"></img></code>
+<span> or </span>
+<code><img src="https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Zequn%20Liu&size=50&barradius=999&barlen=90" alt="Zequn Liu"></img></code>
+</center>
 
-![Hobee](https://unv-shield.librian.net/api/unv_shield?url=https://avatars.githubusercontent.com/u/56749226&txt=Zequn%20Liu&size=50&barradius=999&barlen=90)
+<center>
+<code><img src="https://img.shields.io/github/followers/HoBeedzc?label=Follower&style=social"  alt="Github Followers"/></code>
+<code><img src="https://img.shields.io/github/stars/HoBeedzc?label=Star&style=social"  alt="Github Followers"/></code>
+<code><img src="https://img.shields.io/github//HoBeedzc?label=Fork&style=social"  alt="Github Followers"/></code>
+</center>
+
+[![CodeTime](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/2)](https://codetime.datreks.com)
 
 - 🔭 I’m currently working on information management and information system
 - 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
@@ -19,40 +33,32 @@
 - 😄 Pronouns: HoBee
 - You can find more info on [LZQ's Homepage](https://lzq.netlify.app/) or [Hobee's Homepage](http://www.hobeedzc.cn/)
 - Welcome to my [blog](http://blog.hobeedzc.cn/)
+****
+<center>Let's do something interesting!</center>
+
+My Project:
+- Nothing
+
+Support Me:
+- Nothing
 
 ### Other info:
 
-- code with Python、R、C、MatLab.
-- interest in Digital Products.
+- Interest in Digital Products.
+- Preferred **Languages** :
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" /></code>
+- Preferred **Frameworks**: 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django" /></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" /></code>
+
 
 ### Counter
 
-![Hobeedzc-Counter](https://count.getloli.com/get/@Hobeedzc?theme=asoul)
+<center> <img alt="Hobeedzc-Counter" src="https://count.getloli.com/get/@Hobeedzc?theme=asoul" /></center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoBeedzc&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#"><p align="center"><img src="https://github-profile-trophy.vercel.app/?username=HoBeedzc&column=7&theme=onedark"/></p></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoBeedzc&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
--->
-
-<!--
-**HoBeedzc/HoBeedzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a align="center" href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HoBeedzc&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoBeedzc&layout=compact&theme=tokyonight" alt="languages" height="165"></p></a>
