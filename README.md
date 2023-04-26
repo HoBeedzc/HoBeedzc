@@ -29,10 +29,10 @@ Welcome to my Github Profile ...
 
 - 🔭 I’m currently working on information management and information system
 - 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
-- 📫 How to reach me: lzqpublic@163.com
+- 📫 How to reach me: [support@hobee.me](mailto:support@hobee.me)
 - 😄 Pronouns: HoBee
-- You can find more info on [LZQ's Homepage](https://lzq.netlify.app/) or [Hobee's Homepage](http://www.hobeedzc.cn/)
-- Welcome to my [blog](http://blog.hobeedzc.cn/)
+- You can find more info on [My Homepage](https://hobee.me/)
+- Welcome to my [blog](http://blog.hobee.me/)
 ****
 <center>Let's do something interesting!</center>
 
