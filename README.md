@@ -29,7 +29,7 @@ Welcome to my Github Profile ...
 
 - 🔭 I’m currently working on information management and information system
 - 🌱 I’m currently learning Machine Learning, Data Mining and Deep Learing. 
-- 📫 How to reach me: [support@hobee.me](mailto:support@hobee.me)
+- 📫 How to reach me: [Hobee.Liu@gmail.com](mailto:Hobee.Liu@gmail.com) for global user / [support@hobee.me](mailto:support@hobee.me) for Chinese mainland user.
 - 😄 Pronouns: HoBee
 - You can find more info on [My Homepage](https://hobee.me/)
 - Welcome to my [blog](http://blog.hobee.me/)
