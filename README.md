@@ -4,7 +4,7 @@
   <a href="https://hobee.me" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=hugo&logoColor=white"/>
   </a>
-  <a href="mailto:hobee.liu@outlook.com">
+  <a href="mailto:hobee.liu@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/hobee-liu">
